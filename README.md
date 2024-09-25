@@ -84,6 +84,9 @@ B) Download MySQL Installer from the official website
 C) Install MySQL Workbench
 D) Set up a root password
 
+B)
+
+
 What setup type should you choose for a custom MySQL installation?
 
 A) Developer Default
@@ -91,12 +94,17 @@ B) Server Only
 C) Full
 D) Custom
 
+D)
+
+
 Which products should you select during the MySQL installation?
 
 A) MySQL Server, MySQL Workbench, and MySQL Shell
 B) Only MySQL Server
 C) MySQL Server and MySQL Router
 D) MySQL Workbench and MySQL Utilities
+
+A)
 
 What is the purpose of setting a root password during MySQL installation?
 
