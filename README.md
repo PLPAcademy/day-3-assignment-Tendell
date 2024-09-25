@@ -49,6 +49,7 @@ B) Download Python from the official website
 C) Open the terminal and type sudo apt install python
 D) Install pip manually
 
+B)
 
 Which option should you ensure is checked during Python installation on Windows?
 
