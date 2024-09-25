@@ -23,6 +23,8 @@ B) dart --check
 C) dart --verify
 D) dart --version
 
+D)
+
 
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
 
@@ -32,12 +34,16 @@ C) Run Flutter Doctor
 D) Create a new Flutter project
 
 
+D)
+
 4. What command is used to run a newly created Flutter app?
 
 A) flutter start
 B) flutter build
 C) flutter run
 D) flutter init
+
+D)
 
 
 #Python Installation
